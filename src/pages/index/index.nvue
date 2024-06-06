@@ -10,7 +10,7 @@
 
 <script setup lang="ts">
 import { ref } from "vue";
-import esHeader from "@/components/es-header/es-header.vue";
+import esHeader from "@/components/es-header/es-header.nvue";
 
 const title = ref("Hello");
 </script>

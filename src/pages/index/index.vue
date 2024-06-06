@@ -1,6 +1,6 @@
 <template>
   <view class="content">
-    <es-header>首页</es-header>
+    <es-header is-back>首页</es-header>
     <image class="logo" src="/static/logo.png" />
     <view class="text-area">
       <text class="title">{{ title }}</text>
